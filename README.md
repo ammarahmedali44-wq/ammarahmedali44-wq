@@ -27,6 +27,8 @@
 </p>
 
 <br/>
+<hr/>
+<br/>
 
 <h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
@@ -62,16 +64,34 @@
 </p>
 
 <br/>
+<hr/>
+<br/>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">📈 Contribution Activity</h3>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammarahmedali44-wq&theme=react-dark&hide_border=true&area=true" alt="Ammar's Activity Graph" />
+  </a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<h3 align="center">📊 GitHub Stats & Summary</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true" alt="Ammar's GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ammarahmedali44-wq&theme=blue_navy&hide_border=true" alt="Ammar's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammarahmedali44-wq&theme=radical" alt="Ammar's Profile Details" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Ammar's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ammarahmedali44-wq&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ammarahmedali44-wq&theme=radical" alt="Top Languages by Commit" />
 </p>
 
+<br/>
+<hr/>
 <br/>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
@@ -79,4 +99,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
