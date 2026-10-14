@@ -2,7 +2,7 @@
 <h3 align="center">Data Science, AI & Digital Business Student @ GISMA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammarahmedali44-wq&label=Profile%20views&color=0e75b6&style=flat" alt="ammarahmedali44-wq" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ammarahmedali44-wq.ammarahmedali44-wq" alt="Profile Views" />
 </p>
 
 <br/>
@@ -67,17 +67,6 @@
 <hr/>
 <br/>
 
-<h3 align="center">📈 Contribution Activity</h3>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammarahmedali44-wq&theme=react-dark&hide_border=true&area=true" alt="Ammar's Activity Graph" />
-  </a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 <h3 align="center">📊 GitHub Stats & Summary</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true" alt="Ammar's GitHub Stats" />
@@ -98,4 +87,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
-
