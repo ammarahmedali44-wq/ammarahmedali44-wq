@@ -1,18 +1,82 @@
-# 💫 About Me:
-Ammar | Data Science, AI & Digital Business Student @ GISMA<br><br>Passionate about leveraging data and artificial intelligence<br> to drive business innovation. <br>Currently exploring the intersection<br> of technology and strategy through projects in <br>machine learning, data analysis,<br> and digital transformation.<br><br>📫 How to reach me: Ammarahmedali44@gmail.com
+<h1 align="center">Hi 👋, I'm Ammar</h1>
+<h3 align="center">Data Science, AI & Digital Business Student @ GISMA</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ammarahmedali44-wq&label=Profile%20views&color=0e75b6&style=flat" alt="ammarahmedali44-wq" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ammar Ahmed ) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ammarahmedali44-wq&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <b>🎓 Pursuing a degree in Data Science, AI & Digital Business at GISMA University</b><br><br>
+  💡 Passionate about leveraging <b>data and artificial intelligence</b> to drive business innovation<br><br>
+  🔭 Exploring the intersection of technology and strategy through <b>ML, Data Analysis, and Digital Transformation</b><br><br>
+  🌱 Currently learning <b>Deep Learning, MLOps, and Advanced Business Intelligence</b>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
+
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammar-a-9335aa389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Ammarahmedali44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="center">💻 Tech Stack:</h3>
+<p align="center">
+  <b>Languages & Core</b><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <br><br>
+  
+  <b>Data Science & AI</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <br><br>
+
+  <b>Databases & Cloud</b><br>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <br><br>
+
+  <b>DevOps & Tools</b><br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <br><br>
+
+  <b>Business Intelligence</b><br>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+<br/>
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true" alt="Ammar's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=ammarahmedali44-wq&theme=blue_navy&hide_border=true" alt="Ammar's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarahmedali44-wq&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Ammar's Top Languages" />
+</p>
+
+<br/>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
